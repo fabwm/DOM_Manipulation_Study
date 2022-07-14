@@ -1,4 +1,4 @@
-# DOM_Manipulation_Study
+# DOM_Manipulation_Study_Lamp
 Repositorio para estudo de manipulação de DOM
 
 A simple html page with a objective of playing with DOM manipulation
